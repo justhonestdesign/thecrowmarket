@@ -18,7 +18,7 @@
 
 ## Networking
 
-* [Networking](networking/networking.md)
+* [Groups](networking/groups.md)
 * [Education](networking/education.md)
 * [Job Boards](networking/job-boards.md)
 * [Business](networking/business.md)

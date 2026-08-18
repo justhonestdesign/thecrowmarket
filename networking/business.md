@@ -1,16 +1,5 @@
 # Business
 
-### Branding
-
-* [Moo Cards](https://www.moo.com/us/)
-* [Brands of the World](https://www.brandsoftheworld.com)
-* [Onym](https://guide.onym.co)
-* [Branding Generator](https://logo.com)
-* [Panabee](https://www.panabee.com)
-* [Mixwords](https://filosophy.org/projects/mixwords/)
-* [Namelix](https://namelix.com/app/)
-* [GoPrint](https://www.gotprint.com/home.html)
-
 ### Freelancing
 
 * [Graphic River](https://graphicriver.net)

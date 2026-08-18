@@ -1,5 +1,16 @@
 # Visual Design
 
+### Branding
+
+* [Moo Cards](https://www.moo.com/us/)
+* [Brands of the World](https://www.brandsoftheworld.com)
+* [Onym](https://guide.onym.co)
+* [Branding Generator](https://logo.com)
+* [Panabee](https://www.panabee.com)
+* [Mixwords](https://filosophy.org/projects/mixwords/)
+* [Namelix](https://namelix.com/app/)
+* [GoPrint](https://www.gotprint.com/home.html)
+
 ### Illustrations
 
 * [Absurd Illustrations](https://absurd.design)
@@ -67,6 +78,4 @@
 * [Coolors](https://coolors.co)
 * [Color Hunt](https://colorhunt.co)
 * [Color Space](https://mycolor.space)
-
-
 
