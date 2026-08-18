@@ -1,0 +1,17 @@
+# Textile Design
+
+* [Merch You](https://www.merchyou.com/en)
+* [Novatomato](https://www.novatomato.com)
+* [Fabric List](https://sewguide.com/fabric-glossary/)
+* [Spoonflower](https://www.spoonflower.com)
+* [Design Your Fabric](https://designyourfabric.com)
+* [Contrado](https://www.contrado.com)
+* [WeaveUp](https://weaveup.com)
+* [PrintMePretty](https://www.printmepretty.co.uk)
+* [Picky Pattern](http://picky-pattern.com)
+* [Art Fabrics](https://artfabrics.com)
+* [Casper](https://caspar-design.com)
+* [The Textile District](https://thetextiledistrict.com)
+* [Phabrika](https://phabrika.com)
+* [Little Coalico](https://littlecocalico.com)
+* [FreeSewing](https://freesewing.org)
