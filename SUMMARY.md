@@ -9,12 +9,12 @@
 * [Typography](graphic-design/typography.md)
 * [Books & Resources](graphic-design/books-and-resources.md)
 
-## Product Design
+## Design Systems
 
-* [UI/UX Design](product-design/ui-ux-design.md)
-* [Books & Resources](product-design/books-and-resources.md)
-* [Design Systems](product-design/design-systems.md)
-* [Web Development](product-design/web-development.md)
+* [Design Systems](design-systems/design-systems.md)
+* [UI/UX Design](design-systems/ui-ux-design.md)
+* [Books & Resources](design-systems/books-and-resources.md)
+* [Web Development](design-systems/web-development.md)
 
 ## Networking
 
