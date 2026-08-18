@@ -7,7 +7,7 @@
   * [Design Systems](product-design/design-systems.md)
   * [Web Development](product-design/web-development.md)
 * [Graphic Design](graphic-design/README.md)
-  * [Typography](graphic-design/typography.md)
   * [Visual Design](graphic-design/visual-design.md)
   * [Motion Graphics](graphic-design/motion-graphics.md)
+  * [Typography](graphic-design/typography.md)
   * [Books & Resources](graphic-design/books-and-resources.md)

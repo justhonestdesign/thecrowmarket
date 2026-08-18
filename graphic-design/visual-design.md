@@ -1,2 +1,72 @@
 # Visual Design
 
+### Illustrations
+
+* [Absurd Illustrations](https://absurd.design)
+* [Big Heads](https://bigheads.io)
+* [Story Set Illustrations](https://storyset.com)
+* [Customize Illustrations](https://designs.ai/graphicmaker)
+* [Undraw Illustrations](https://undraw.co/illustrations)
+* [Many Pixels](https://www.manypixels.co/gallery)
+* [Open Source Illustrations](https://illlustrations.co)
+* [Doodle Ipsum Illustrations](https://doodleipsum.com)
+* [Kapustin Illustrations](https://www.kapustin.co)
+* [Icons8](https://icons8.com/illustrations)
+* [Sapiens](https://sapiens.ui8.net/6m3o3w2)
+* [Handz](https://www.handz.design/)
+* [Blush Illustrations](https://blush.design/)
+* [Story Set Illustrations](https://storyset.com)
+* [SketchValley](https://sketchvalley.com/)
+* [Get Illustrations](https://www.getillustrations.com)
+* [Black Illustrations](https://www.blackillustrations.com)
+* [Pixel True Packs](https://www.pixeltrue.com/packs)
+* [StreamLine](https://www.streamlinehq.com)
+* [Open Peeps](https://www.openpeeps.com)
+* [Icon Scouts](https://iconscout.com)
+* [Many Pixels Illustrations](https://www.manypixels.co/gallery)
+* [Scribbbles](https://www.scribbbles.design/)
+* [Grow Kit Illustrations](https://growwwkit.com)
+* [Smash Illustrations](https://usesmash.com)
+* [Open Doodles](https://www.opendoodles.com)
+* [Fresh Folk](https://fresh-folk.com/)
+* [Humaaans](https://www.humaaans.com/)
+* [Glaze Stock](https://www.glazestock.com)
+* [Ira Designs](https://iradesign.io)
+* [Draw Kit](https://www.drawkit.com)
+* [Isometric Love](https://isometriclove.com/)
+* [Stubborn Generator Illustrations](https://stubborn.fun)
+* [404 Illustrations](https://www.kapwing.com/404-illustrations)
+* [Lakasz Adam](https://lukaszadam.com)
+* [Streamline](https://www.streamlinehq.com/)
+* [Mega Vector Pack](https://github.com/MariaLetta/mega-doodles-pack)
+* [Free Illustrations](https://freeillustrations.xyz)
+
+### Assets
+
+* [CraftWork](https://craftwork.design)
+* [IS Graphics](https://www.ls.graphics)
+* [Delesign Assets](https://delesign.com/free-resources)
+* [Design Resources](https://designresourc.es)
+* [Vecteezy](https://www.vecteezy.com)
+* [Frankentoon Studio](https://frankentoonstudio.com)
+* [Milanote](https://milanote.com)
+* [Pixel Surplus](https://pixelsurplus.com)
+* [Super Nice Stuff](https://supernicestuff.co)
+* [Creative Fabrica](https://www.creativefabrica.com)
+* [Design Mastery Community](https://www.designerslack.community)
+* [The Hungry JPEG](https://thehungryjpeg.com)
+* [Creative Veila](https://www.veila.me)
+* [Design Cuts](https://www.designcuts.com)
+* [Design Junction](https://designjunction.xyz)
+* [Happy Hues](https://www.happyhues.co)
+
+### Color Palettes
+
+* [Huemint](https://huemint.com)
+* [Happy Hues](https://www.happyhues.co)
+* [Coolors](https://coolors.co)
+* [Color Hunt](https://colorhunt.co)
+* [Color Space](https://mycolor.space)
+
+
+
