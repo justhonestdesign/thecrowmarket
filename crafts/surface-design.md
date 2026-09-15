@@ -1,4 +1,8 @@
-# Textile Design
+---
+coverY: 0
+---
+
+# Surface Design
 
 * [Merch You](https://www.merchyou.com/en)
 * [Novatomato](https://www.novatomato.com)

@@ -1,5 +1,6 @@
 ---
 description: That aren’t your usual LinkedIn, Indeed, and Monster.
+coverY: 0
 ---
 
 # Job Boards

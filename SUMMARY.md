@@ -26,7 +26,7 @@
 ## Crafts
 
 * [Apparel](crafts/apparel.md)
-* [Textile Design](crafts/textile-design.md)
+* [Surface Design](crafts/surface-design.md)
 * [Manufacturers](crafts/manufacturers.md)
 * [Makers](crafts/makers.md)
 * [DIY](crafts/diy.md)

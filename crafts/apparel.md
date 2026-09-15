@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Apparel
 
 * [Design By Humans](https://www.designbyhumans.com)

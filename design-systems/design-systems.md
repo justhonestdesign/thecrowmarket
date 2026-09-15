@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Design Systems
 
 * [Design Systems](https://www.designsystems.com)

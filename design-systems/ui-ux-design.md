@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # UI/UX Design
 
 * [UI-Patterns](https://ui-patterns.com)
