@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Typography
 
 ### Font Database

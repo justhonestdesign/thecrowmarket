@@ -1,9 +1,13 @@
+---
+coverY: 0
+---
+
 # Visual Design
 
 ### Branding
 
-* [Moo Cards](https://www.moo.com/us/)
 * [Brands of the World](https://www.brandsoftheworld.com)
+* [Moo Cards](https://www.moo.com/us/)
 * [Onym](https://guide.onym.co)
 * [Branding Generator](https://logo.com)
 * [Panabee](https://www.panabee.com)
