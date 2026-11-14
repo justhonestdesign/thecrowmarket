@@ -6,6 +6,8 @@ coverY: 0
 
 ### Branding
 
+[https://learningseo.io](https://learningseo.io)
+
 * [Brands of the World](https://www.brandsoftheworld.com)
 * [Moo Cards](https://www.moo.com/us/)
 * [Onym](https://guide.onym.co)
